@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551768797518",
+    "project_id": "flutterauth-c5009",
+    "storage_bucket": "flutterauth-c5009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551768797518:android:9b16e369f3fb3c0c60ee1f",
+        "android_client_info": {
+          "package_name": "com.nadiashammas.firebase_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551768797518-3tas0r2u74m3o511m0lvj6i3t9t91btk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXIXi-TbsxGnjqTP30s3hxnGirpxInmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551768797518-3tas0r2u74m3o511m0lvj6i3t9t91btk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
